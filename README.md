@@ -1,23 +1,5 @@
 <!-- Github Profile Banner -->
-<div style="text-align: left; padding: 50px; background-image: linear-gradient( 111.4deg,rgba(7,7,9,1) 6.5%,rgba(27,24,113,1) 93.2% );">
-  <h1 style="font-size: 48px; color: #ffffff;">
-  <span style="background-color: #0093E9;
-background-image: linear-gradient(160deg, #0093E9 30%, #80D0C7 70%); text-clip: text; -webkit-background-clip: text; color: transparent;
-">Idea</span>,
-     <span style="background-color: #FBAB7E;
-background-image: linear-gradient(62deg, #FBAB7E 20%, #F7CE68 80%);text-clip: text; -webkit-background-clip: text; color: transparent;
-">Build</span>, <span style="background: #b224ef;
-  background: linear-gradient(
-    to right,
-    #b224ef,#7579ff
-  );
- text; -webkit-background-clip: text; color: transparent;
-">Deploy</span>
-  </h1>
-  <p style="color: #ffffff; font-size: 24px;">
-  Code that connects creativity and functionality.
-  </p>
-</div>
+![amirulkanak](https://i.ibb.co.com/kBsbsJJ/amirulkanak-github.jpg)
 
 <!-- Github Profile Banner -->
 
