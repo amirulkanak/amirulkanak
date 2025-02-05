@@ -1,17 +1,17 @@
 <!-- Github Profile Banner -->
-![amirulkanak](https://i.ibb.co.com/kBsbsJJ/amirulkanak-github.jpg)
+<img src="./banner/amirulkanak-gitbanner.jpg" alt="Git-banner" style="width:100%;height:100%;">
 
 <!-- Github Profile Banner -->
 
 <!-- Heading -->
 <h1 align="center" style="margin-top:16px;">Hi 👋, I'm Amirul Alam Kanak</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate Frontend Developer from Bangladesh.</h3>
 <!-- Heading -->
 
 ## 💫 About Me:
 - 🔭 I’m currently working on **MERN Stack Project**
 
-- 🌱 I’m currently learning **Zustand**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, TailwindCSS, MongoDB, Express.js, HTML, CSS, Figma Design to Code etc.**
 
